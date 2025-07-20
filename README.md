@@ -12,7 +12,7 @@ instantly look up the best gear for their current progression phase in **Terrari
 
 ---
 
-## ✨  Features
+##  Features
 
 |                     | What it does |
 |---------------------|--------------|
@@ -25,7 +25,7 @@ instantly look up the best gear for their current progression phase in **Terrari
 
 ---
 
-## 🚀  Quick start (no Docker)
+##  Quick start (no Docker)
 
 ```bash
 git clone https://github.com/YourUser/terrabot.git
