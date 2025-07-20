@@ -1,0 +1,5 @@
+discord.py==2.5.2        # Discord library with full slash‑command support
+aiohttp>=3.8,<4.0        # Async HTTP client for wiki calls
+rapidfuzz>=3.0,<4.0      # Fast fuzzy‑matching for autocomplete
+python-dotenv>=1.0,<2.0  # Read TOKEN from a .env file (optional but handy)
+beautifulsoup4>=4.12,<5.0# HTML parser used to scrape the wiki page
